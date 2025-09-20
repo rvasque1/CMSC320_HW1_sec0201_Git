@@ -9,5 +9,9 @@ Answer: Data Science is valuable to the finance world because it allows us to de
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: Merging preserves history and creates a non-linear graph by adding a new merge commit, while rebasing rewrites history to create a clean, linear timeline by reapplying commits
+Answer: Merging preserves history and creates a non-linear graph by adding a new merge commit, while rebasing rewrites history to create a clean, linear timeline by reapplying commits.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Adding a nice project to my portfolio.
 
