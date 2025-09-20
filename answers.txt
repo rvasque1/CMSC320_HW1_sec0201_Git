@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science is valuable to the finance world because it allows us to derive conclusions from the data to mitigate risks and make better decisions.
