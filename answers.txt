@@ -5,3 +5,9 @@ Answer: To colloborate with groups of people without having to share a machine b
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science is valuable to the finance world because it allows us to derive conclusions from the data to mitigate risks and make better decisions.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves history and creates a non-linear graph by adding a new merge commit, while rebasing rewrites history to create a clean, linear timeline by reapplying commits
+
